@@ -21,4 +21,4 @@ int y1 = GetUserValue("Введите координату У первго чи�
 int x2 = GetUserValue("Введите координату Х второго числа");
 int y2 = GetUserValue("Введите координату У второго числа");
 double result = getDistance(x1, y1,x2, y2);
-Console.WriteLine(result);
+Console.WriteLine($"Расстояние = {Math.Round(result,2)}");
