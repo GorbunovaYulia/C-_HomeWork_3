@@ -47,6 +47,6 @@ void showQuarter(int x, int y)
 
 int x = GetUserValue("Введите X");
 int y = GetUserValue("Введите Y");
-showQuarter(int x, int y);
+showQuarter(x, y);
 
 
