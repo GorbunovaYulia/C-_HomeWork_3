@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\Введение в программирование\Lesson_3\hw02\bin\Debug\net6.0\hw02.exe
+C:\Users\User\Desktop\GeekBrains\Введение в программирование\Lesson_3\hw02\bin\Debug\net6.0\hw02.deps.json
+C:\Users\User\Desktop\GeekBrains\Введение в программирование\Lesson_3\hw02\bin\Debug\net6.0\hw02.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\Введение в программирование\Lesson_3\hw02\bin\Debug\net6.0\hw02.dll
+C:\Users\User\Desktop\GeekBrains\Введение в программирование\Lesson_3\hw02\bin\Debug\net6.0\hw02.pdb
+C:\Users\User\Desktop\GeekBrains\Введение в программирование\Lesson_3\hw02\obj\Debug\net6.0\hw02.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\Введение в программирование\Lesson_3\hw02\obj\Debug\net6.0\hw02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\Введение в программирование\Lesson_3\hw02\obj\Debug\net6.0\hw02.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\Введение в программирование\Lesson_3\hw02\obj\Debug\net6.0\hw02.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\Введение в программирование\Lesson_3\hw02\obj\Debug\net6.0\hw02.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\Введение в программирование\Lesson_3\hw02\obj\Debug\net6.0\hw02.dll
+C:\Users\User\Desktop\GeekBrains\Введение в программирование\Lesson_3\hw02\obj\Debug\net6.0\refint\hw02.dll
+C:\Users\User\Desktop\GeekBrains\Введение в программирование\Lesson_3\hw02\obj\Debug\net6.0\hw02.pdb
+C:\Users\User\Desktop\GeekBrains\Введение в программирование\Lesson_3\hw02\obj\Debug\net6.0\hw02.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\Введение в программирование\Lesson_3\hw02\obj\Debug\net6.0\ref\hw02.dll
